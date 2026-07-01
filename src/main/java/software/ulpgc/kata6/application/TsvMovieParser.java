@@ -1,6 +1,6 @@
-package software.ulpgc.kata5.application;
+package software.ulpgc.kata6.application;
 
-import software.ulpgc.kata5.architecture.model.Movie;
+import software.ulpgc.kata6.architecture.model.Movie;
 
 public class TsvMovieParser {
 

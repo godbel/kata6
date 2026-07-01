@@ -1,7 +1,7 @@
-package software.ulpgc.kata5.application;
+package software.ulpgc.kata6.application;
 
-import software.ulpgc.kata5.architecture.io.Store;
-import software.ulpgc.kata5.architecture.model.Movie;
+import software.ulpgc.kata6.architecture.io.Store;
+import software.ulpgc.kata6.architecture.model.Movie;
 
 import java.io.IOException;
 import java.sql.Connection;

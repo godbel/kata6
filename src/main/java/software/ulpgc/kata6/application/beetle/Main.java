@@ -1,7 +1,7 @@
-package software.ulpgc.kata5.application.beetle;
+package software.ulpgc.kata6.application.beetle;
 
-import software.ulpgc.kata5.application.*;
-import software.ulpgc.kata5.architecture.model.Movie;
+import software.ulpgc.kata6.application.*;
+import software.ulpgc.kata6.architecture.model.Movie;
 
 import java.io.File;
 import java.io.IOException;

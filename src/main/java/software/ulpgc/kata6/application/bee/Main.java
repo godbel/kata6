@@ -1,8 +1,8 @@
-package software.ulpgc.kata5.application.bee;
+package software.ulpgc.kata6.application.bee;
 
-import software.ulpgc.kata5.application.Desktop;
-import software.ulpgc.kata5.application.RemoteStore;
-import software.ulpgc.kata5.application.TsvMovieParser;
+import software.ulpgc.kata6.application.Desktop;
+import software.ulpgc.kata6.application.RemoteStore;
+import software.ulpgc.kata6.application.TsvMovieParser;
 
 import java.io.IOException;
 

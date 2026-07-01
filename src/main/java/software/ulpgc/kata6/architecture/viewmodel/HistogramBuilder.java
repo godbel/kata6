@@ -1,6 +1,6 @@
-package software.ulpgc.kata5.architecture.viewmodel;
+package software.ulpgc.kata6.architecture.viewmodel;
 
-import software.ulpgc.kata5.architecture.model.Movie;
+import software.ulpgc.kata6.architecture.model.Movie;
 
 import java.util.HashMap;
 import java.util.Map;

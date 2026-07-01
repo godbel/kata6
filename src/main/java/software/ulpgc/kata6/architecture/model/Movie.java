@@ -1,4 +1,4 @@
-package software.ulpgc.kata5.architecture.model;
+package software.ulpgc.kata6.architecture.model;
 
 public record Movie(String name, int years, int duration) {
 }

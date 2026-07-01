@@ -1,7 +1,7 @@
-package software.ulpgc.kata5.application;
+package software.ulpgc.kata6.application;
 
-import software.ulpgc.kata5.architecture.io.Recorder;
-import software.ulpgc.kata5.architecture.model.Movie;
+import software.ulpgc.kata6.architecture.io.Recorder;
+import software.ulpgc.kata6.architecture.model.Movie;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
